@@ -1,0 +1,22 @@
+.inputForm {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.mainTitle {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.box {
+  border: 3px solid green;
+  border-radius: 10px;
+  height: 100px;
+  width: 120px;
+}
+
+.box > p {
+  margin-top: 0px;
+}
